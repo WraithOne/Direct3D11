@@ -206,7 +206,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Include\Direct3D11.hpp" />
+    <ClInclude Include="Include\Enumerations.hpp" />
+    <ClInclude Include="Include\Functions.hpp" />
+    <ClInclude Include="Include\Interfaces.hpp" />
+    <ClInclude Include="Include\Structurs.hpp" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
