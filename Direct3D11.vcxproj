@@ -209,7 +209,7 @@
     <ClInclude Include="Include\Enumerations.hpp" />
     <ClInclude Include="Include\Functions.hpp" />
     <ClInclude Include="Include\Interfaces.hpp" />
-    <ClInclude Include="Include\Structurs.hpp" />
+    <ClInclude Include="Include\Structures.hpp" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>

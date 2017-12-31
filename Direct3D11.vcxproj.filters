@@ -16,13 +16,13 @@
     <ClInclude Include="Include\Enumerations.hpp">
       <Filter>Include</Filter>
     </ClInclude>
-    <ClInclude Include="Include\Structurs.hpp">
-      <Filter>Include</Filter>
-    </ClInclude>
     <ClInclude Include="Include\Interfaces.hpp">
       <Filter>Include</Filter>
     </ClInclude>
     <ClInclude Include="Include\Functions.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\Structures.hpp">
       <Filter>Include</Filter>
     </ClInclude>
   </ItemGroup>
